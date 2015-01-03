@@ -1,0 +1,6 @@
+[submodule "armitage"]
+	path = armitage
+	url = git://git.kali.org/packages/armitage.git
+[submodule "cowpatty"]
+	path = cowpatty
+	url = git://git.kali.org/packages/cowpatty.git
